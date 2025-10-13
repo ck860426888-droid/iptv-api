@@ -1,8 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ck860426888-droid/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-11 18:30:14
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-13 18:33:45
 https://www.freetv.top/migu/608807420.m3u8?migutoken=d46a7802f5e358560129ef9519cb7db38f9f355847dd255fb5ac47a4bf8e3c6b5b980b45749fb1cb373b654d43a6fc41c66a124ad66ee40a80f07e155334fe6f023993dc3f284f86ab66653797$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://www.freetv.top/migu/608807420.m3u8?migutoken=d46a7802f5e358560129ef9519cb7db38f9f355847dd255fb5ac47a4bf8e3c6b5b980b45749fb1cb373b654d43a6fc41c66a124ad66ee40a80f07e155334fe6f023993dc3f284f86ab66653797$订阅源
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+https://jzb.wwkejishe.top/?id=578$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
@@ -75,8 +77,6 @@ http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6
 https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://jzb.wwkejishe.top/?id=592$订阅源
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
-https://cc06.tv12.xyz/15.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
@@ -121,6 +121,8 @@ https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 https://cc06.tv12.xyz/53.m3u8$订阅源
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+https://jzb.wwkejishe.top/?id=612$订阅源
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 https://cc06.tv12.xyz/26.m3u8$订阅源
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
@@ -193,6 +195,8 @@ https://cc06.tv12.xyz/94.m3u8$订阅源
 https://cc06.tv12.xyz/96.m3u8$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://www.freetv.top/migu/947472506.m3u8?migutoken=c740fc58e518a315b254873398c630ca506a9de327397b5e27a668d9c1e170b6512a1834dab3229ddc39b5a61c2ea42fae6d196a11c6d0e5e212522e6edf197f65ad9addf0b540aa6c9d4fcd3e$订阅源
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
+https://jzb.wwkejishe.top/?id=605$订阅源
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://cc06.tv12.xyz/97.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
